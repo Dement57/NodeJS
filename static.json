@@ -8,5 +8,6 @@
       "Content-Type":"text/plain",
       "Access-Control-Allow-Origin": "*"
     }
-  }
+  },
+  "clean_urls": true
 }
