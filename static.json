@@ -10,4 +10,8 @@
     }
   },
   "clean_urls": true
+  "routes": {
+    "/login/": "login.html",
+    "/sample/": "sample.html"
+  }
 }
