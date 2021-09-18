@@ -9,5 +9,5 @@
       "Access-Control-Allow-Origin": "*"
     }
   },
-  "clean_urls": true
+  {"clean_urls": true}
 }
