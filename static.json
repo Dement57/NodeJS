@@ -21,7 +21,7 @@
   "routes": {
     "/login/": "login.html",
     "/sample/": "sample.html",
-    "/promise/": "promise.html",
+    "/promise/": "promise",
     "/fetch/": "fetch.html"
   }
 }
