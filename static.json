@@ -20,6 +20,8 @@
   "clean_urls": true,
   "routes": {
     "/login/": "login.html",
-    "/sample/": "sample.html"
+    "/sample/": "sample.html",
+    "/promise/": "promise.html",
+    "/fetch/": "fetch.html"
   }
 }
