@@ -15,6 +15,12 @@
     "/fetch/":{
       "Content-Type":"text/html; charset=UTF-8",
       "Access-Control-Allow-Origin": "*"
+    },
+    "/result4/":{
+      "Content-Type":"text/html; charset=UTF-8",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET,POST,PUT,DELETE,OPTIONS",
+      "Access-Control-Allow-Headers": "x-test,Content-Type,Accept,Access-Control-Allow-Headers"
     }
   },
   "clean_urls": true,
@@ -22,6 +28,7 @@
     "/login/": "login.html",
     "/sample/": "sample.html",
     "/promise/": "promise",
-    "/fetch/": "fetch.html"
+    "/fetch/": "fetch.html",
+    "/result4/": "fetch.html"
   }
 }
